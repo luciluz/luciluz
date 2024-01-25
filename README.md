@@ -1,4 +1,4 @@
-![](https://github.com/luciluz/algo3/blob/main/banner.jpeg)
+![](https://github.com/luciluz/algo3/blob/main/banner.jpg)
 
 <!--
 **luciluz/luciluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
