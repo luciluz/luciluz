@@ -1,6 +1,4 @@
-### Hola, soy Luci 🌱
-
-Actualmente me encuentro estudiando Ciencia de Datos en la Universidad de Buenos Aires
+![](https://github.com/luciluz/algo3/blob/main/banner.jpeg)
 
 <!--
 **luciluz/luciluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
